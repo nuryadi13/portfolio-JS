@@ -1,0 +1,11 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #a7a3a3;
+}
+#project {
+  background-color: #a7a3a3;
+}
+section svg {
+  width: 100%;
+  height: auto;
+}
